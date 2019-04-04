@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/MyPropertyEditor/obj
+/MyPropertyEditor.Web/App_Data/cache
+/MyPropertyEditor.Web/App_Data/Logs
+/MyPropertyEditor.Web/App_Data/Models
+/MyPropertyEditor.Web/App_Data/packages
+/MyPropertyEditor.Web/App_Data/TEMP
+/MyPropertyEditor.Web/bin
+/MyPropertyEditor.Web/obj
+/MyPropertyEditor.Web/Umbraco
+/packages
