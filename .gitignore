@@ -13,3 +13,6 @@
 /MyPropertyEditor.Web/obj
 /MyPropertyEditor.Web/Umbraco
 /packages
+/MyPropertyEditor.Web/App_Plugins/MyPropertyEditor
+/MyPropertyEditor/bin/Debug
+*.user
