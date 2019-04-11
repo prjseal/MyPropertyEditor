@@ -51,6 +51,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="App_Plugins\MyPropertyEditor\img\PoweredByGiphy.png" />
+    <Content Include="App_Plugins\MyPropertyEditor\js\directives.js" />
+    <Content Include="App_Plugins\MyPropertyEditor\js\MyPicker.controller.js" />
+    <Content Include="App_Plugins\MyPropertyEditor\MyPicker.html" />
     <Content Include="App_Plugins\MyPropertyEditor\css\MyPropertyEditor.style.css" />
     <Content Include="App_Plugins\MyPropertyEditor\js\MyPropertyEditor.controller.js" />
     <Content Include="App_Plugins\MyPropertyEditor\MyPropertyEditor.html" />
